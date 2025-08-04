@@ -32,3 +32,5 @@ Copy	Ctrl + C
 Paste	Ctrl + V
 Select All	Ctrl + A
 
+![image alt](https://github.com/prashant2002-commit/Notepad-Clone/blob/main/asset/Screenshot%202025-08-04%20161101.png?raw=true)
+
