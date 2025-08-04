@@ -1,6 +1,8 @@
 Notepad Clone
 A simple Notepad application built using Java Swing, replicating the basic functionalities of the default Windows Notepad. This project demonstrates the use of GUI components, file handling, and event-driven programming in Java.
 
+![image alt](https://github.com/prashant2002-commit/Notepad-Clone/blob/main/asset/Screenshot%202025-08-04%20152713.png?raw=true)
+
 ~Features
 Create, open, save, and edit text files (.txt)
 
